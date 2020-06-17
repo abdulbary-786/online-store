@@ -54,7 +54,6 @@
   flex-flow:wrap;
 }
 .pic1{
-  display:flex;
   border: 1px solid black;
   width: 1283px;
   height: 500px;
